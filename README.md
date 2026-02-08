@@ -1,4 +1,6 @@
 💼 Employee Management System
+<img width="1908" height="920" alt="Screenshot 2025-12-27 221843" src="https://github.com/user-attachments/assets/d8c78ecc-6b90-4375-af48-840243e7feb1" />
+
 
 🛠️ Tech Stack:
 Frontend:
