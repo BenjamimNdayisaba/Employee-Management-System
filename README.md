@@ -3,19 +3,23 @@
 
 
 🛠️ Tech Stack:
+
 Frontend:
 React
 JavaScript · HTML · CSS
 
 Backend:
+
 Node.js
 Express.js
 
 Database:
+
 MySQL
 
 
 🚀 Getting Started:
+
 Prerequisites:
 
 Make sure the following are installed:
@@ -27,6 +31,7 @@ MySQL
 Git
 
 Installation:
+
 1️⃣ Clone the repository:
 git clone https://github.com/BenjamimNdayisaba/Employee-Management-System.git
 cd Employee-Management-System
@@ -58,7 +63,9 @@ Log in with admin or employee credentials
 Manage employees and tasks from the dashboard
 
 📁 Project Structure:
+
 Employee-Management-System/
+
 ├── Server Side/      : Node.js backend
 ├── Client Side/      : React frontend
 ├── Database/         : SQL setup scripts
